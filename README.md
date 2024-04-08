@@ -6,7 +6,7 @@
 
 ## Description
 
-This is my UPDATED Portfolio Website for the year 2023. This website houses everything I need to land a job as a Front-End Web Developer.
+This is a simple "roll the dice" game. Refresh the page and you'll see what I mean.
 
 ## Table of Contents
 
